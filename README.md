@@ -36,8 +36,8 @@ A smart, IoT-based solution for automating plant irrigation and monitoring tempe
 
 ## Folder Structure
 IoT-Smart-Irrigation-and-Temperature-Alert-System/
-- Hardware/      # Circuit diagrams, wiring instructions, component setup
-- Firmware/      # Arduino code for ESP32/NodeMCU microcontroller
+- circuit-diagram/      # Circuit diagrams, wiring instructions, component setup
+- code/      # Arduino and ESP32/NodeMCU microcontroller code
 - images/     
 - documents/     # Project documentation, to-do lists, and references
 - README.md      # Project overview and instructions
