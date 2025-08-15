@@ -14,7 +14,7 @@ A smart, IoT-based solution for automating plant irrigation and monitoring tempe
 
 ---
 
-## 🛠️ Hardware Components
+## Hardware Components
 
 - ESP32 or NodeMCU
 - DHT11/DHT22 Temperature & Humidity Sensor
